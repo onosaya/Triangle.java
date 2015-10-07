@@ -1,7 +1,7 @@
 # Triangle.java
 My second repository on Github
 
-import kava.util.Scanner; //スキャナクラスのインポート宣言
+import java.util.Scanner; //スキャナクラスのインポート宣言
 
 public class Triangle { //  三角形クラス
 	public static void main(String[] args){ //メイン関数
